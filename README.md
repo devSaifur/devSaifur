@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="code-snippets" src="https://raw.githubusercontent.com/devSaifur/devSaifur/ce2b00b24db5803dc7369ae31719f8a5f83493b3/assets/images/code.png">
+<img width="500" alt="code-snippets" src="./assets/images/code.png">
 </div>
 
 <h1 align="center">Hi I'm Saifur Rahman</h1>
