@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="code-snippets" src="./assets/images/code.png">
+<img width="500" alt="code-snippets" src="./assets/images/screenshot.webp">
 </div>
 
 <h1 align="center">Hi I'm Saifur Rahman</h1>
